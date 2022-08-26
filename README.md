@@ -14,6 +14,6 @@
 [Minitalk](https://github.com/ismailkayaalp/minitalk.git) | | [![ikayaalp's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl79nu64f00160gl0uoyns0kn/project/2624115)](https://github.com/JaeSeoKim/badge42)
 [so_long](https://github.com/ismailkayaalp/so_long.git) | | [![ikayaalp's 42 so_long Score](https://badge42.vercel.app/api/v2/cl79nu64f00160gl0uoyns0kn/project/2626082)](https://github.com/JaeSeoKim/badge42)
 [push_swap](https://github.com/ismailkayaalp/push_swap.git) | | [![ikayaalp's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl79nu64f00160gl0uoyns0kn/project/2626083)](https://github.com/JaeSeoKim/badge42)
-[Exam Rank 2]| | [![ikayaalp's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl79nu64f00160gl0uoyns0kn/project/2636081)](https://github.com/JaeSeoKim/badge42)
+Exam Rank 2| | [![ikayaalp's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl79nu64f00160gl0uoyns0kn/project/2636081)](https://github.com/JaeSeoKim/badge42)
 
 
