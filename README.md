@@ -1,4 +1,3 @@
-<h1 align="center">Hi I'm Ismail Kayaalp:punch:</h1>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailkayaalp&show_icons=true&theme=radical)
